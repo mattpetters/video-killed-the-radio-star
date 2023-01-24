@@ -1,4 +1,12 @@
-# Video Killed The Radio Star [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmarx/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb)
+# Video Killed The Radio Star [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mattpetters/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb)
+
+
+## matt note
+
+So far all I've changed is the version of whisper being installed and an issue where there would be an out of bounds error if the segment had no words.
+
+TODO:
+- Fix the Traveling Salesman Code to work, right now the inputs aren't matching and it throws an error when toggling optimal order on
 
 
 
